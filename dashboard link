@@ -1,0 +1,25 @@
+
+---
+
+## 📈 Tableau Dashboard
+
+You can explore the interactive event analytics dashboard here:  
+🔗 [Toronto Event Data Dashboard](https://public.tableau.com/app/profile/nagendra.hegde1985/viz/TorontoEventbritedata/Dashboard1?publish=yes)
+
+---
+
+## 📜 Methodology
+
+- **Data Simulation:** Created 1000+ fake events with location, timing, type, and attendance
+- **EDA:** Attendance distribution, event day/time analysis, location-based clustering
+- **Modeling:** Predict Low/Medium/High attendance ranges
+- **Forecasting:** 30-day attendance trend predictions using Random Forest Regressor
+- **Visualization:** Interactive heatmaps + Tableau dashboards for insights
+
+---
+
+## 📬 Author
+
+- [Nagendra Hegde](https://github.com/nagendrahegde)
+
+⭐️ If you found this helpful, please star the repo and share!
